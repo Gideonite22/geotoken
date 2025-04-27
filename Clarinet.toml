@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/geotoken.clar"
 depends_on = []
 
+[contracts.location-sharing]
+path = "contracts/location-sharing.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
